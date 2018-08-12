@@ -1,1 +1,2 @@
 # photoshare
+最近在看spring boot相关的内容，就想着用spring boot写点东西。因为以前喜欢拍照，拍了很多照片就放在一边没管也没有后期过了，就想着搞一个存照片和分享照片的应用。最近下班过后基本都在搞这个，目前为止使用到的技术大概有spring boot、thymeleaf、spring security、bootstrap、spring aop等
